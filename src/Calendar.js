@@ -336,7 +336,7 @@ class Calendar extends React.Component {
     onDoubleClickEvent: PropTypes.func,
 
     /**
-     * Callback fired when a focused calendar event recieves a key press.
+     * Callback fired when a focused calendar event receives a key press.
      *
      * ```js
      * (event: Object, e: SyntheticEvent) => void
